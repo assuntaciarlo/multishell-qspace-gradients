@@ -1,0 +1,29 @@
+####################################################################################
+# This is a gradient scheme for diffusion MRI acquisition, generated from the
+# online Q space sampling script at
+# http://www.emmanuelcaruyer.com/q-space-sampling.php. Use this
+# gradient scheme freely for your simulations, or real acquisition on an MR
+# scanner. Do not forget to cite the relevant article [1].
+#
+# 1. Caruyer, Emmanuel, Christophe Lenglet, Guillermo Sapiro, and Rachid Deriche.
+#    "Design of multishell sampling schemes with uniform coverage in diffusion MRI."
+#    Magnetic Resonance in Medicine 69, no. 6 (2013): 1534-1540.
+#
+####################################################################################
+# THERE IS NO WARRANTY FOR THIS SAMPLING SCHEME, TO THE EXTENT PERMITTED BY        #
+# APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS    #
+# AND/OR OTHER PARTIES PROVIDE THE SAMPLING SCHEME “AS IS” WITHOUT WARRANTY OF     #
+# ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE        #
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE  #
+# ENTIRE RISK AS TO THE QUALITY OF THE SAMPLING SCHEME IS WITH YOU. SHOULD THE     #
+# SAMPLING SCHEME PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, #
+# REPAIR OR CORRECTION.                                                            #
+####################################################################################
+#shell	u_x	u_y	u_z
+1	-0.559	0.223	0.799
+2	0.427	0.903	0.046
+1	0.715	-0.359	0.600
+2	-0.114	0.105	-0.988
+1	-0.233	-0.973	-0.006
+2	-0.897	0.415	0.147
+1	-0.939	-0.341	0.038

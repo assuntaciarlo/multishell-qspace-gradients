@@ -1,0 +1,1412 @@
+Maximum B-Value (MRI scaner should acquire all the time with this value): 2000 s/mm^2
+B-values: [1000 2000] s/mm^2
+
+
+Direction #0:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.146 -0.041 -0.989]
+Unitary direction vector norm: 1.000559
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.146 -0.041 -0.989]
+Weighted direction vector norm: 1.000559
+True B-value (proportional to G^2): 2002.236000
+
+
+Direction #1:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [0.972 0.19  0.136]
+Unitary direction vector norm: 0.999690
+Assigned weight: 0.707107
+Weighted direction vector: [0.68730779 0.13435029 0.09616652]
+Weighted direction vector norm: 0.706888
+True B-value (proportional to G^2): 999.380000
+
+
+Direction #2:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.193  0.979 -0.069]
+Unitary direction vector norm: 1.000225
+Assigned weight: 1.000000
+Weighted direction vector: [-0.193  0.979 -0.069]
+Weighted direction vector norm: 1.000225
+True B-value (proportional to G^2): 2000.902000
+
+
+Direction #3:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.908 -0.392 -0.145]
+Unitary direction vector norm: 0.999576
+Assigned weight: 1.000000
+Weighted direction vector: [-0.908 -0.392 -0.145]
+Weighted direction vector norm: 0.999576
+True B-value (proportional to G^2): 1998.306000
+
+
+Direction #4:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.025 -0.665  0.747]
+Unitary direction vector norm: 1.000429
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.01767767 -0.47022601  0.52820877]
+Weighted direction vector norm: 0.707410
+True B-value (proportional to G^2): 1000.859000
+
+
+Direction #5:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.843  0.426  0.331]
+Unitary direction vector norm: 1.000843
+Assigned weight: 1.000000
+Weighted direction vector: [-0.843  0.426  0.331]
+Weighted direction vector norm: 1.000843
+True B-value (proportional to G^2): 2003.372000
+
+
+Direction #6:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.578  0.345 -0.74 ]
+Unitary direction vector norm: 1.000354
+Assigned weight: 1.000000
+Weighted direction vector: [-0.578  0.345 -0.74 ]
+Weighted direction vector norm: 1.000354
+True B-value (proportional to G^2): 2001.418000
+
+
+Direction #7:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.22  -0.725 -0.653]
+Unitary direction vector norm: 1.000217
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.15556349 -0.51265242 -0.46174073]
+Weighted direction vector norm: 0.707260
+True B-value (proportional to G^2): 1000.434000
+
+
+Direction #8:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.497  0.685 -0.532]
+Unitary direction vector norm: 0.999629
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.497  0.685 -0.532]
+Weighted direction vector norm: 0.999629
+True B-value (proportional to G^2): 1998.516000
+
+
+Direction #9:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [0.235 0.721 0.652]
+Unitary direction vector norm: 1.000085
+Assigned weight: 1.000000
+Weighted direction vector: [0.235 0.721 0.652]
+Weighted direction vector norm: 1.000085
+True B-value (proportional to G^2): 2000.340000
+
+
+Direction #10:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.682 -0.066  0.729]
+Unitary direction vector norm: 1.000460
+Assigned weight: 0.707107
+Weighted direction vector: [-0.48224682 -0.04666905  0.51548084]
+Weighted direction vector norm: 0.707432
+True B-value (proportional to G^2): 1000.921000
+
+
+Direction #11:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.793 -0.117  0.598]
+Unitary direction vector norm: 1.000071
+Assigned weight: 1.000000
+Weighted direction vector: [-0.793 -0.117  0.598]
+Weighted direction vector norm: 1.000071
+True B-value (proportional to G^2): 2000.284000
+
+
+Direction #12:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.725  0.638 -0.259]
+Unitary direction vector norm: 0.999875
+Assigned weight: 1.000000
+Weighted direction vector: [-0.725  0.638 -0.259]
+Weighted direction vector norm: 0.999875
+True B-value (proportional to G^2): 1999.500000
+
+
+Direction #13:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [0.363 0.928 0.081]
+Unitary direction vector norm: 0.999757
+Assigned weight: 0.707107
+Weighted direction vector: [0.25667976 0.65619509 0.05727565]
+Weighted direction vector norm: 0.706935
+True B-value (proportional to G^2): 999.514000
+
+
+Direction #14:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.601 -0.276 -0.75 ]
+Unitary direction vector norm: 0.999938
+Assigned weight: 1.000000
+Weighted direction vector: [-0.601 -0.276 -0.75 ]
+Weighted direction vector norm: 0.999938
+True B-value (proportional to G^2): 1999.754000
+
+
+Direction #15:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.372 -0.707 -0.602]
+Unitary direction vector norm: 1.000318
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.372 -0.707 -0.602]
+Weighted direction vector norm: 1.000318
+True B-value (proportional to G^2): 2001.274000
+
+
+Direction #16:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.538  0.009 -0.843]
+Unitary direction vector norm: 1.000087
+Assigned weight: 0.707107
+Weighted direction vector: [-0.38042345  0.00636396 -0.59609102]
+Weighted direction vector norm: 0.707168
+True B-value (proportional to G^2): 1000.174000
+
+
+Direction #17:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.046 -0.751  0.658]
+Unitary direction vector norm: 0.999540
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.046 -0.751  0.658]
+Weighted direction vector norm: 0.999540
+True B-value (proportional to G^2): 1998.162000
+
+
+Direction #18:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.51  -0.857 -0.08 ]
+Unitary direction vector norm: 1.000474
+Assigned weight: 1.000000
+Weighted direction vector: [-0.51  -0.857 -0.08 ]
+Weighted direction vector norm: 1.000474
+True B-value (proportional to G^2): 2001.898000
+
+
+Direction #19:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.706 -0.706  0.051]
+Unitary direction vector norm: 0.999736
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.49921739 -0.49921739  0.03606245]
+Weighted direction vector norm: 0.706920
+True B-value (proportional to G^2): 999.473000
+
+
+Direction #20:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.973 -0.117  0.198]
+Unitary direction vector norm: 0.999811
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.973 -0.117  0.198]
+Weighted direction vector norm: 0.999811
+True B-value (proportional to G^2): 1999.244000
+
+
+Direction #21:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.267 -0.365  0.892]
+Unitary direction vector norm: 1.000089
+Assigned weight: 1.000000
+Weighted direction vector: [-0.267 -0.365  0.892]
+Weighted direction vector norm: 1.000089
+True B-value (proportional to G^2): 2000.356000
+
+
+Direction #22:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.053  0.187  0.981]
+Unitary direction vector norm: 1.000069
+Assigned weight: 0.707107
+Weighted direction vector: [-0.03747666  0.13222897  0.69367175]
+Weighted direction vector norm: 0.707156
+True B-value (proportional to G^2): 1000.139000
+
+
+Direction #23:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.508 -0.314 -0.802]
+Unitary direction vector norm: 0.999932
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.508 -0.314 -0.802]
+Weighted direction vector norm: 0.999932
+True B-value (proportional to G^2): 1999.728000
+
+
+Direction #24:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [0.052 0.956 0.288]
+Unitary direction vector norm: 0.999792
+Assigned weight: 1.000000
+Weighted direction vector: [0.052 0.956 0.288]
+Weighted direction vector norm: 0.999792
+True B-value (proportional to G^2): 1999.168000
+
+
+Direction #25:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.699  0.624 -0.349]
+Unitary direction vector norm: 0.999889
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.49426764  0.44123463 -0.24678027]
+Weighted direction vector norm: 0.707028
+True B-value (proportional to G^2): 999.778000
+
+
+Direction #26:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.306  0.038 -0.951]
+Unitary direction vector norm: 0.999740
+Assigned weight: 1.000000
+Weighted direction vector: [-0.306  0.038 -0.951]
+Weighted direction vector norm: 0.999740
+True B-value (proportional to G^2): 1998.962000
+
+
+Direction #27:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.857  0.442 -0.267]
+Unitary direction vector norm: 1.000551
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.857  0.442 -0.267]
+Weighted direction vector norm: 1.000551
+True B-value (proportional to G^2): 2002.204000
+
+
+Direction #28:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.233  0.945 -0.23 ]
+Unitary direction vector norm: 1.000107
+Assigned weight: 0.707107
+Weighted direction vector: [-0.16475588  0.66821591 -0.16263456]
+Weighted direction vector norm: 0.707182
+True B-value (proportional to G^2): 1000.214000
+
+
+Direction #29:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.573  0.807  0.141]
+Unitary direction vector norm: 0.999729
+Assigned weight: 1.000000
+Weighted direction vector: [-0.573  0.807  0.141]
+Weighted direction vector norm: 0.999729
+True B-value (proportional to G^2): 1998.918000
+
+
+Direction #30:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.658 -0.593 -0.464]
+Unitary direction vector norm: 0.999954
+Assigned weight: 1.000000
+Weighted direction vector: [-0.658 -0.593 -0.464]
+Weighted direction vector norm: 0.999954
+True B-value (proportional to G^2): 1999.818000
+
+
+Direction #31:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [0.558 0.569 0.604]
+Unitary direction vector norm: 0.999970
+Assigned weight: 0.707107
+Weighted direction vector: [0.39456558 0.40234376 0.4270925 ]
+Weighted direction vector norm: 0.707086
+True B-value (proportional to G^2): 999.941000
+
+
+Direction #32:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.41  -0.746  0.525]
+Unitary direction vector norm: 1.000120
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.41  -0.746  0.525]
+Weighted direction vector norm: 1.000120
+True B-value (proportional to G^2): 2000.482000
+
+
+Direction #33:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.019 -0.443 -0.896]
+Unitary direction vector norm: 0.999713
+Assigned weight: 1.000000
+Weighted direction vector: [-0.019 -0.443 -0.896]
+Weighted direction vector norm: 0.999713
+True B-value (proportional to G^2): 1998.852000
+
+
+Direction #34:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.916 -0.284 -0.285]
+Unitary direction vector norm: 1.000468
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.64770981 -0.20081833 -0.20152543]
+Weighted direction vector norm: 0.707438
+True B-value (proportional to G^2): 1000.937000
+
+
+Direction #35:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.234  0.927 -0.292]
+Unitary direction vector norm: 0.999674
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.234  0.927 -0.292]
+Weighted direction vector norm: 0.999674
+True B-value (proportional to G^2): 1998.698000
+
+
+Direction #36:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.978 -0.04  -0.205]
+Unitary direction vector norm: 1.000054
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.978 -0.04  -0.205]
+Weighted direction vector norm: 1.000054
+True B-value (proportional to G^2): 2000.218000
+
+
+Direction #37:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.722 -0.42   0.55 ]
+Unitary direction vector norm: 1.000092
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.5105311  -0.29698485  0.38890873]
+Weighted direction vector norm: 0.707172
+True B-value (proportional to G^2): 1000.184000
+
+
+Direction #38:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.825  0.054 -0.564]
+Unitary direction vector norm: 1.000818
+Assigned weight: 1.000000
+Weighted direction vector: [-0.825  0.054 -0.564]
+Weighted direction vector norm: 1.000818
+True B-value (proportional to G^2): 2003.274000
+
+
+Direction #39:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.141  0.424 -0.894]
+Unitary direction vector norm: 0.999446
+Assigned weight: 1.000000
+Weighted direction vector: [-0.141  0.424 -0.894]
+Weighted direction vector norm: 0.999446
+True B-value (proportional to G^2): 1997.786000
+
+
+Direction #40:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.367  0.414 -0.833]
+Unitary direction vector norm: 0.999987
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.25950819  0.29274221 -0.58901995]
+Weighted direction vector norm: 0.707098
+True B-value (proportional to G^2): 999.974000
+
+
+Direction #41:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.543 -0.1    0.834]
+Unitary direction vector norm: 1.000202
+Assigned weight: 1.000000
+Weighted direction vector: [-0.543 -0.1    0.834]
+Weighted direction vector norm: 1.000202
+True B-value (proportional to G^2): 2000.810000
+
+
+Direction #42:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.279 -0.895 -0.346]
+Unitary direction vector norm: 0.999291
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.279 -0.895 -0.346]
+Weighted direction vector norm: 0.999291
+True B-value (proportional to G^2): 1997.164000
+
+
+Direction #43:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.131 -0.951 -0.281]
+Unitary direction vector norm: 1.000261
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.09263099 -0.67245855 -0.19869701]
+Weighted direction vector norm: 0.707292
+True B-value (proportional to G^2): 1000.523000
+
+
+Direction #44:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.674  0.72  -0.165]
+Unitary direction vector norm: 0.999950
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.674  0.72  -0.165]
+Weighted direction vector norm: 0.999950
+True B-value (proportional to G^2): 1999.802000
+
+
+Direction #45:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.895  0.445 -0.035]
+Unitary direction vector norm: 1.000137
+Assigned weight: 1.000000
+Weighted direction vector: [-0.895  0.445 -0.035]
+Weighted direction vector norm: 1.000137
+True B-value (proportional to G^2): 2000.550000
+
+
+Direction #46:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.601  0.444  0.664]
+Unitary direction vector norm: 0.999616
+Assigned weight: 0.707107
+Weighted direction vector: [-0.42497118  0.31395541  0.4695189 ]
+Weighted direction vector norm: 0.706836
+True B-value (proportional to G^2): 999.233000
+
+
+Direction #47:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.332 -0.388 -0.86 ]
+Unitary direction vector norm: 1.000184
+Assigned weight: 1.000000
+Weighted direction vector: [-0.332 -0.388 -0.86 ]
+Weighted direction vector norm: 1.000184
+True B-value (proportional to G^2): 2000.736000
+
+
+Direction #48:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.758 -0.263 -0.597]
+Unitary direction vector norm: 1.000071
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.758 -0.263 -0.597]
+Weighted direction vector norm: 1.000071
+True B-value (proportional to G^2): 2000.284000
+
+
+Direction #49:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.777 -0.606 -0.171]
+Unitary direction vector norm: 1.000103
+Assigned weight: 0.707107
+Weighted direction vector: [-0.54942197 -0.42850671 -0.12091526]
+Weighted direction vector norm: 0.707180
+True B-value (proportional to G^2): 1000.206000
+
+
+Direction #50:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.119 -0.919  0.376]
+Unitary direction vector norm: 1.000049
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.119 -0.919  0.376]
+Weighted direction vector norm: 1.000049
+True B-value (proportional to G^2): 2000.196000
+
+
+Direction #51:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.858 -0.267 -0.439]
+Unitary direction vector norm: 1.000087
+Assigned weight: 1.000000
+Weighted direction vector: [-0.858 -0.267 -0.439]
+Weighted direction vector norm: 1.000087
+True B-value (proportional to G^2): 2000.348000
+
+
+Direction #52:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.201 -0.281  0.938]
+Unitary direction vector norm: 0.999603
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.14212846 -0.19869701  0.66326616]
+Weighted direction vector norm: 0.706826
+True B-value (proportional to G^2): 999.206000
+
+
+Direction #53:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.603  0.436 -0.668]
+Unitary direction vector norm: 0.999964
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.603  0.436 -0.668]
+Weighted direction vector norm: 0.999964
+True B-value (proportional to G^2): 1999.858000
+
+
+Direction #54:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.364 -0.853 -0.376]
+Unitary direction vector norm: 1.000740
+Assigned weight: 1.000000
+Weighted direction vector: [-0.364 -0.853 -0.376]
+Weighted direction vector norm: 1.000740
+True B-value (proportional to G^2): 2002.962000
+
+
+Direction #55:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.942 -0.246  0.228]
+Unitary direction vector norm: 0.999932
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.66609459 -0.17394827  0.16122035]
+Weighted direction vector norm: 0.707059
+True B-value (proportional to G^2): 999.864000
+
+
+Direction #56:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.78   0.41  -0.471]
+Unitary direction vector norm: 0.999170
+Assigned weight: 1.000000
+Weighted direction vector: [-0.78   0.41  -0.471]
+Weighted direction vector norm: 0.999170
+True B-value (proportional to G^2): 1996.682000
+
+
+Direction #57:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.253  0.523  0.814]
+Unitary direction vector norm: 1.000067
+Assigned weight: 1.000000
+Weighted direction vector: [-0.253  0.523  0.814]
+Weighted direction vector norm: 1.000067
+True B-value (proportional to G^2): 2000.268000
+
+
+Direction #58:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.268  0.87  -0.414]
+Unitary direction vector norm: 1.000060
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.18950462  0.6151829  -0.29274221]
+Weighted direction vector norm: 0.707149
+True B-value (proportional to G^2): 1000.120000
+
+
+Direction #59:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.221  0.643 -0.733]
+Unitary direction vector norm: 0.999789
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.221  0.643 -0.733]
+Weighted direction vector norm: 0.999789
+True B-value (proportional to G^2): 1999.158000
+
+
+Direction #60:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.492 -0.854  0.17 ]
+Unitary direction vector norm: 1.000140
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.492 -0.854  0.17 ]
+Weighted direction vector norm: 1.000140
+True B-value (proportional to G^2): 2000.560000
+
+
+Direction #61:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [0.189 0.552 0.812]
+Unitary direction vector norm: 0.999884
+Assigned weight: 0.707107
+Weighted direction vector: [0.13364318 0.39032294 0.57417071]
+Weighted direction vector norm: 0.707025
+True B-value (proportional to G^2): 999.769000
+
+
+Direction #62:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.976  0.204 -0.076]
+Unitary direction vector norm: 0.999984
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.976  0.204 -0.076]
+Weighted direction vector norm: 0.999984
+True B-value (proportional to G^2): 1999.936000
+
+
+Direction #63:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.635  0.634  0.441]
+Unitary direction vector norm: 0.999831
+Assigned weight: 1.000000
+Weighted direction vector: [-0.635  0.634  0.441]
+Weighted direction vector norm: 0.999831
+True B-value (proportional to G^2): 1999.324000
+
+
+Direction #64:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.912  0.203 -0.357]
+Unitary direction vector norm: 1.000201
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.64488138  0.14354268 -0.25243712]
+Weighted direction vector norm: 0.707249
+True B-value (proportional to G^2): 1000.402000
+
+
+Direction #65:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.576  0.054 -0.816]
+Unitary direction vector norm: 1.000274
+Assigned weight: 1.000000
+Weighted direction vector: [-0.576  0.054 -0.816]
+Weighted direction vector norm: 1.000274
+True B-value (proportional to G^2): 2001.096000
+
+
+Direction #66:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.198 -0.98  -0.009]
+Unitary direction vector norm: 0.999842
+Assigned weight: 1.000000
+Weighted direction vector: [-0.198 -0.98  -0.009]
+Weighted direction vector norm: 0.999842
+True B-value (proportional to G^2): 1999.370000
+
+
+Direction #67:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.435  0.691 -0.578]
+Unitary direction vector norm: 1.000395
+Assigned weight: 0.707107
+Weighted direction vector: [-0.30759145  0.48861079 -0.40870772]
+Weighted direction vector norm: 0.707386
+True B-value (proportional to G^2): 1000.790000
+
+
+Direction #68:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.026  0.168 -0.986]
+Unitary direction vector norm: 1.000548
+Assigned weight: 1.000000
+Weighted direction vector: [-0.026  0.168 -0.986]
+Weighted direction vector norm: 1.000548
+True B-value (proportional to G^2): 2002.192000
+
+
+Direction #69:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [0.734 0.657 0.171]
+Unitary direction vector norm: 0.999823
+Assigned weight: 1.000000
+Weighted direction vector: [0.734 0.657 0.171]
+Weighted direction vector norm: 0.999823
+True B-value (proportional to G^2): 1999.292000
+
+
+Direction #70:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.566  0.756  0.328]
+Unitary direction vector norm: 0.999738
+Assigned weight: 0.707107
+Weighted direction vector: [-0.40022244  0.53457273  0.23193102]
+Weighted direction vector norm: 0.706921
+True B-value (proportional to G^2): 999.476000
+
+
+Direction #71:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.049 -0.775 -0.63 ]
+Unitary direction vector norm: 0.999963
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.049 -0.775 -0.63 ]
+Weighted direction vector norm: 0.999963
+True B-value (proportional to G^2): 1999.852000
+
+
+Direction #72:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.366 -0.56   0.743]
+Unitary direction vector norm: 0.999802
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.366 -0.56   0.743]
+Weighted direction vector norm: 0.999802
+True B-value (proportional to G^2): 1999.210000
+
+
+Direction #73:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.799 -0.186 -0.572]
+Unitary direction vector norm: 1.000090
+Assigned weight: 0.707107
+Weighted direction vector: [-0.56497832 -0.13152186 -0.40446508]
+Weighted direction vector norm: 0.707171
+True B-value (proportional to G^2): 1000.181000
+
+
+Direction #74:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.895 -0.074 -0.44 ]
+Unitary direction vector norm: 1.000050
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.895 -0.074 -0.44 ]
+Weighted direction vector norm: 1.000050
+True B-value (proportional to G^2): 2000.202000
+
+
+Direction #75:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.362  0.138  0.922]
+Unitary direction vector norm: 1.000086
+Assigned weight: 1.000000
+Weighted direction vector: [-0.362  0.138  0.922]
+Weighted direction vector norm: 1.000086
+True B-value (proportional to G^2): 2000.344000
+
+
+Direction #76:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.357 -0.006 -0.934]
+Unitary direction vector norm: 0.999920
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.25243712 -0.00424264 -0.66043773]
+Weighted direction vector norm: 0.707051
+True B-value (proportional to G^2): 999.841000
+
+
+Direction #77:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [0.484 0.568 0.666]
+Unitary direction vector norm: 1.000218
+Assigned weight: 1.000000
+Weighted direction vector: [0.484 0.568 0.666]
+Weighted direction vector norm: 1.000218
+True B-value (proportional to G^2): 2000.872000
+
+
+Direction #78:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.468  0.827 -0.312]
+Unitary direction vector norm: 1.000148
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.468  0.827 -0.312]
+Weighted direction vector norm: 1.000148
+True B-value (proportional to G^2): 2000.594000
+
+
+Direction #79:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.248 -0.855 -0.455]
+Unitary direction vector norm: 0.999777
+Assigned weight: 0.707107
+Weighted direction vector: [-0.17536248 -0.6045763  -0.32173359]
+Weighted direction vector norm: 0.706949
+True B-value (proportional to G^2): 999.554000
+
+
+Direction #80:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.766 -0.635 -0.096]
+Unitary direction vector norm: 0.999598
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.766 -0.635 -0.096]
+Weighted direction vector norm: 0.999598
+True B-value (proportional to G^2): 1998.394000
+
+
+Direction #81:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [0.958 0.102 0.269]
+Unitary direction vector norm: 1.000264
+Assigned weight: 1.000000
+Weighted direction vector: [0.958 0.102 0.269]
+Weighted direction vector norm: 1.000264
+True B-value (proportional to G^2): 2001.058000
+
+
+Direction #82:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.486  0.622 -0.614]
+Unitary direction vector norm: 1.000038
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.3436539   0.43982042 -0.43416356]
+Weighted direction vector norm: 0.707134
+True B-value (proportional to G^2): 1000.076000
+
+
+Direction #83:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [0.124 0.184 0.975]
+Unitary direction vector norm: 0.999928
+Assigned weight: 1.000000
+Weighted direction vector: [0.124 0.184 0.975]
+Weighted direction vector norm: 0.999928
+True B-value (proportional to G^2): 1999.714000
+
+
+Direction #84:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.78   0.389 -0.49 ]
+Unitary direction vector norm: 0.999910
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.78   0.389 -0.49 ]
+Weighted direction vector norm: 0.999910
+True B-value (proportional to G^2): 1999.642000
+
+
+Direction #85:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.319 -0.228 -0.92 ]
+Unitary direction vector norm: 1.000072
+Assigned weight: 0.707107
+Weighted direction vector: [-0.22556706 -0.16122035 -0.65053824]
+Weighted direction vector norm: 0.707158
+True B-value (proportional to G^2): 1000.145000
+
+
+Direction #86:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.611  0.596 -0.521]
+Unitary direction vector norm: 0.999989
+Assigned weight: 1.000000
+Weighted direction vector: [-0.611  0.596 -0.521]
+Weighted direction vector norm: 0.999989
+True B-value (proportional to G^2): 1999.956000
+
+
+Direction #87:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.312 -0.943 -0.121]
+Unitary direction vector norm: 1.000617
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.312 -0.943 -0.121]
+Weighted direction vector norm: 1.000617
+True B-value (proportional to G^2): 2002.468000
+
+
+Direction #88:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.054  0.995 -0.09 ]
+Unitary direction vector norm: 1.000520
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.03818377  0.70357125 -0.06363961]
+Weighted direction vector norm: 0.707475
+True B-value (proportional to G^2): 1001.041000
+
+
+Direction #89:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.169  0.829 -0.534]
+Unitary direction vector norm: 1.000479
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.169  0.829 -0.534]
+Weighted direction vector norm: 1.000479
+True B-value (proportional to G^2): 2001.916000
+
+
+Direction #90:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.97  -0.237 -0.062]
+Unitary direction vector norm: 1.000456
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.97  -0.237 -0.062]
+Weighted direction vector norm: 1.000456
+True B-value (proportional to G^2): 2001.826000
+
+
+Direction #91:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.883  0.467  0.052]
+Unitary direction vector norm: 1.000241
+Assigned weight: 0.707107
+Weighted direction vector: [-0.62437529  0.33021887  0.03676955]
+Weighted direction vector norm: 0.707277
+True B-value (proportional to G^2): 1000.482000
+
+
+Direction #92:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.555 -0.509 -0.657]
+Unitary direction vector norm: 0.999377
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.555 -0.509 -0.657]
+Weighted direction vector norm: 0.999377
+True B-value (proportional to G^2): 1997.510000
+
+
+Direction #93:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.365 -0.283  0.886]
+Unitary direction vector norm: 0.999155
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.365 -0.283  0.886]
+Weighted direction vector norm: 0.999155
+True B-value (proportional to G^2): 1996.620000
+
+
+Direction #94:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.892 -0.44   0.106]
+Unitary direction vector norm: 1.000250
+Assigned weight: 0.707107
+Weighted direction vector: [-0.63073925 -0.31112698  0.07495332]
+Weighted direction vector norm: 0.707284
+True B-value (proportional to G^2): 1000.500000
+
+
+Direction #95:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [0.722 0.384 0.576]
+Unitary direction vector norm: 1.000258
+Assigned weight: 1.000000
+Weighted direction vector: [0.722 0.384 0.576]
+Weighted direction vector norm: 1.000258
+True B-value (proportional to G^2): 2001.032000
+
+
+Direction #96:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.469  0.324 -0.822]
+Unitary direction vector norm: 1.000310
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.469  0.324 -0.822]
+Weighted direction vector norm: 1.000310
+True B-value (proportional to G^2): 2001.242000
+
+
+Direction #97:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.314 -0.418 -0.852]
+Unitary direction vector norm: 0.999612
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.22203153 -0.29557063 -0.60245498]
+Weighted direction vector norm: 0.706832
+True B-value (proportional to G^2): 999.224000
+
+
+Direction #98:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.12  -0.869 -0.48 ]
+Unitary direction vector norm: 0.999980
+Assigned weight: 1.000000
+Weighted direction vector: [-0.12  -0.869 -0.48 ]
+Weighted direction vector norm: 0.999980
+True B-value (proportional to G^2): 1999.922000
+
+
+Direction #99:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.833  0.55  -0.051]
+Unitary direction vector norm: 0.999495
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.833  0.55  -0.051]
+Weighted direction vector norm: 0.999495
+True B-value (proportional to G^2): 1997.980000
+
+
+Direction #100:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.464  0.41  -0.785]
+Unitary direction vector norm: 0.999810
+Assigned weight: 0.707107
+Weighted direction vector: [-0.32809755  0.28991378 -0.55507882]
+Weighted direction vector norm: 0.706973
+True B-value (proportional to G^2): 999.621000
+
+
+Direction #101:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.896  0.324 -0.303]
+Unitary direction vector norm: 0.999800
+Assigned weight: 1.000000
+Weighted direction vector: [-0.896  0.324 -0.303]
+Weighted direction vector norm: 0.999800
+True B-value (proportional to G^2): 1999.202000
+
+
+Direction #102:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.017  0.986 -0.17 ]
+Unitary direction vector norm: 1.000692
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.017  0.986 -0.17 ]
+Weighted direction vector norm: 1.000692
+True B-value (proportional to G^2): 2002.770000
+
+
+Direction #103:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.428 -0.904 -0.023]
+Unitary direction vector norm: 1.000464
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.3026417  -0.63922453 -0.01626346]
+Weighted direction vector norm: 0.707435
+True B-value (proportional to G^2): 1000.929000
+
+
+Direction #104:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.059  0.518 -0.854]
+Unitary direction vector norm: 1.000560
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.059  0.518 -0.854]
+Weighted direction vector norm: 1.000560
+True B-value (proportional to G^2): 2002.242000
+
+
+Direction #105:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.171  0.309  0.935]
+Unitary direction vector norm: 0.999473
+Assigned weight: 1.000000
+Weighted direction vector: [-0.171  0.309  0.935]
+Weighted direction vector norm: 0.999473
+True B-value (proportional to G^2): 1997.894000
+
+
+Direction #106:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.825 -0.139 -0.547]
+Unitary direction vector norm: 0.999577
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.58336309 -0.09828784 -0.38678741]
+Weighted direction vector norm: 0.706808
+True B-value (proportional to G^2): 999.155000
+
+
+Direction #107:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.674  0.089  0.734]
+Unitary direction vector norm: 1.000476
+Assigned weight: 1.000000
+Weighted direction vector: [-0.674  0.089  0.734]
+Weighted direction vector norm: 1.000476
+True B-value (proportional to G^2): 2001.906000
+
+
+Direction #108:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [0.555 0.764 0.328]
+Unitary direction vector norm: 0.999652
+Assigned weight: 1.000000
+Weighted direction vector: [0.555 0.764 0.328]
+Weighted direction vector norm: 0.999652
+True B-value (proportional to G^2): 1998.610000
+
+
+Direction #109:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.599  0.799 -0.057]
+Unitary direction vector norm: 1.000225
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.42355696  0.56497832 -0.04030509]
+Weighted direction vector norm: 0.707266
+True B-value (proportional to G^2): 1000.451000
+
+
+Direction #110:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.358  0.868 -0.344]
+Unitary direction vector norm: 0.999962
+Assigned weight: 1.000000
+Weighted direction vector: [-0.358  0.868 -0.344]
+Weighted direction vector norm: 0.999962
+True B-value (proportional to G^2): 1999.848000
+
+
+Direction #111:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.442 -0.16  -0.883]
+Unitary direction vector norm: 1.000326
+Assigned weight: 1.000000
+Weighted direction vector: [-0.442 -0.16  -0.883]
+Weighted direction vector norm: 1.000326
+True B-value (proportional to G^2): 2001.306000
+
+
+Direction #112:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.854  0.105 -0.509]
+Unitary direction vector norm: 0.999711
+Assigned weight: 0.707107
+Weighted direction vector: [-0.60386919  0.07424621 -0.35991735]
+Weighted direction vector norm: 0.706902
+True B-value (proportional to G^2): 999.422000
+
+
+Direction #113:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.928  0.191 -0.319]
+Unitary direction vector norm: 0.999713
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.928  0.191 -0.319]
+Weighted direction vector norm: 0.999713
+True B-value (proportional to G^2): 1998.852000
+
+
+Direction #114:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.479  0.793  0.375]
+Unitary direction vector norm: 0.999457
+Assigned weight: 1.000000
+Weighted direction vector: [-0.479  0.793  0.375]
+Weighted direction vector norm: 0.999457
+True B-value (proportional to G^2): 1997.830000
+
+
+Direction #115:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.108  0.257 -0.96 ]
+Unitary direction vector norm: 0.999656
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.07636753  0.18172644 -0.67882251]
+Weighted direction vector norm: 0.706864
+True B-value (proportional to G^2): 999.313000
+
+
+Direction #116:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.739 -0.222  0.636]
+Unitary direction vector norm: 0.999950
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.739 -0.222  0.636]
+Weighted direction vector norm: 0.999950
+True B-value (proportional to G^2): 1999.802000
+
+
+Direction #117:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [0.066 0.62  0.781]
+Unitary direction vector norm: 0.999358
+Assigned weight: 1.000000
+Weighted direction vector: [0.066 0.62  0.781]
+Weighted direction vector norm: 0.999358
+True B-value (proportional to G^2): 1997.434000
+
+
+Direction #118:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [ 0.088 -0.858  0.505]
+Unitary direction vector norm: 0.999466
+Assigned weight: 0.707107
+Weighted direction vector: [ 0.0622254  -0.60669762  0.35708892]
+Weighted direction vector norm: 0.706729
+True B-value (proportional to G^2): 998.933000
+
+
+Direction #119:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.673  0.617 -0.409]
+Unitary direction vector norm: 1.000449
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.673  0.617 -0.409]
+Weighted direction vector norm: 1.000449
+True B-value (proportional to G^2): 2001.798000
+
+
+Direction #120:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.398 -0.913  0.092]
+Unitary direction vector norm: 1.000218
+Assigned weight: 1.000000
+Weighted direction vector: [-0.398 -0.913  0.092]
+Weighted direction vector norm: 1.000218
+True B-value (proportional to G^2): 2000.874000
+
+
+Direction #121:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [0.78  0.457 0.427]
+Unitary direction vector norm: 0.999789
+Assigned weight: 0.707107
+Weighted direction vector: [0.55154329 0.3231478  0.3019346 ]
+Weighted direction vector norm: 0.706958
+True B-value (proportional to G^2): 999.578000
+
+
+Direction #122:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [-0.278 -0.142  0.95 ]
+Unitary direction vector norm: 0.999974
+Assigned weight: 1.000000
+Weighted direction vector: [-0.278 -0.142  0.95 ]
+Weighted direction vector norm: 0.999974
+True B-value (proportional to G^2): 1999.896000
+
+
+Direction #123:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.66  -0.747  0.083]
+Unitary direction vector norm: 1.000249
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.66  -0.747  0.083]
+Weighted direction vector norm: 1.000249
+True B-value (proportional to G^2): 2000.996000
+
+
+Direction #124:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [0.056 0.766 0.64 ]
+Unitary direction vector norm: 0.999746
+Assigned weight: 0.707107
+Weighted direction vector: [0.03959798 0.54164379 0.45254834]
+Weighted direction vector norm: 0.706927
+True B-value (proportional to G^2): 999.492000
+
+
+Direction #125:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [0.753 0.128 0.645]
+Unitary direction vector norm: 0.999709
+Assigned weight: 1.000000
+Weighted direction vector: [0.753 0.128 0.645]
+Weighted direction vector norm: 0.999709
+True B-value (proportional to G^2): 1998.836000
+
+
+Direction #126:
+------------
+Assigned B-Value: 2000
+Unitary direction vector: [ 0.231 -0.7    0.676]
+Unitary direction vector norm: 1.000168
+Assigned weight: 1.000000
+Weighted direction vector: [ 0.231 -0.7    0.676]
+Weighted direction vector norm: 1.000168
+True B-value (proportional to G^2): 2000.674000
+
+
+Direction #127:
+------------
+Assigned B-Value: 1000
+Unitary direction vector: [-0.995  0.038  0.088]
+Unitary direction vector norm: 0.999606
+Assigned weight: 0.707107
+Weighted direction vector: [-0.70357125  0.02687006  0.0622254 ]
+Weighted direction vector norm: 0.706828
+True B-value (proportional to G^2): 999.213000
+
+

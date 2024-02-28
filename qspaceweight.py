@@ -19,7 +19,9 @@ def intersperse_b0(input_dirs, n_b0):
     Returns
     -------
     out_dirs : list
-
+    
+    
+    there were errors, I changed the code
     """
     # To intersperse n_b0 b=0 volumes more or less equidistant in between the N
     # DW images we should divide the N volumes in (n_b0+1) blocks, with each of
@@ -27,28 +29,36 @@ def intersperse_b0(input_dirs, n_b0):
     # not having any.
 
     N = len(input_dirs)               # number of original directions
-    n_blocks = N//n_b0 + 1            # number of blocks (equivalent of "ceil")
-    vec_per_block = N//int(n_blocks)  # number of points (directions) per block (equiv. of "floor")
-
+    #n_blocks = N//n_b0 + 1            # number of blocks (equivalent of "ceil")
+    #vec_per_block = N//int(n_blocks)  # number of points (directions) per block (equiv. of "floor")
+    vec_per_block = N//(n_b0) #-3
+    
     out_dirs = [None] * (N + n_b0)
     oi = 0     # counter for out_dirs
     ii = 0     # counter for input_dirs
-    for block in range(n_blocks):
+    
+    #add 3 b0 at the beginning
+    for i in range(1):
+        out_dirs[oi] = '( 0.000, 0.000, 0.000 )'
+        oi += 1
+    
+    for block in range(n_b0):#-3): #changed
         # copy the next block from the input:
         out_dirs[oi:oi+vec_per_block] = input_dirs[ii:ii+vec_per_block]
         oi += vec_per_block
         ii += vec_per_block
         # introduce a b-value = 0:
-        out_dirs[oi] = '( 0.000, 0.000, 0.000 )'
-        oi += 1
+        #out_dirs[oi] = '( 0.000, 0.000, 0.000 )'
+        #oi += 1
 
     # last block (it might not have 'vec_per_block' points, but just a few left):
-    vecLeft = N + n_b0 - oi   # how many points/vectors/directions we have left
+    '''
+    vecLeft = N + n_b0 - oi  # how many points/vectors/directions we have left
     for k in range(vecLeft):
         out_dirs[oi] = input_dirs[ii]
         oi+=1
         ii+=1
-
+    '''
     return out_dirs
 
 
@@ -70,19 +80,19 @@ parser.add_argument('bvalues', nargs='+',
 
 args = parser.parse_args()
 
-bvalues=np.array(args.bvalues,dtype=np.int)
+bvalues=np.array(args.bvalues,dtype=int) # np.int was deprecated
 n_b0 = int(args.n_b0)
 
 schema = []
 output = []
 
-with open(args.unitary_schema) as csvfile:
+with open(args.unitary_schema,encoding="utf-8") as csvfile: #added encoding format
     reader = csv.reader(csvfile, delimiter='\t', quotechar='|')
     start = False
     for row in reader:
         try:
             if start:
-                u = np.array(row, dtype=np.float)
+                u = np.array(row, dtype=float) #np.float deprecated
                 schema.append(u)
 
             if row[0] == "#shell":
@@ -157,8 +167,23 @@ else:
     print(given_bvalues)
     print("ERROR: Given B-values number and provided Sample.txt shells number doesn't match. STOPPING.")
 
+#%%
+'''
+import numpy as np
+from matplotlib import pyplot as plt
+from IPython import get_ipython
+get_ipython().run_line_magic('matplotlib', 'qt')
 
 
+fig= plt.figure()
+ax = fig.add_subplot(1, 1, 1, projection='3d')
 
+dirs = np.array(out_dirs).astype(float)
+ax.scatter(dirs[:,0].ravel(),dirs[:,1].ravel(),dirs[:,2].ravel())
+plt.show()
+
+n = np.linalg.norm(dirs,ord=2,axis=1)
+
+'''
 
 
